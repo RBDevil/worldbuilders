@@ -30,3 +30,8 @@ SOON
 
 Concepts and Rules of the World:
 SOON
+
+![alt text](https://github.com/RBDevil/worldbuilders/blob/main/Locations/Example%20Location/Art/sunrise_in_crosa.png?raw=true)
+![alt text](https://github.com/RBDevil/worldbuilders/blob/main/Characters/Example%20Character/Art/assasin.jpg?raw=true)
+![alt text](https://github.com/RBDevil/worldbuilders/blob/main/Characters/Example%20Character/Art/fisherman.png?raw=true)
+![alt text](https://github.com/RBDevil/worldbuilders/blob/main/Characters/Example%20Character/Art/traveller_with_wolves.jpg?raw=true)
